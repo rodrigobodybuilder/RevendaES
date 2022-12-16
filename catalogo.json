@@ -1,0 +1,26 @@
+[
+    {
+        "Placa": 576,
+        "Marca": "bah",
+        "Modelo": "bhe",
+        "Ano": 123,
+        "Cor": "reich",
+        "Cambio": "gee"
+    },
+    {
+        "Placa": 185,
+        "Marca": "asd",
+        "Modelo": "qwe",
+        "Ano": 453,
+        "Cor": "qwe",
+        "Cambio": "qw"
+    },
+    {
+        "Placa": 936,
+        "Marca": "rheimetal",
+        "Modelo": "tiger",
+        "Ano": 1943,
+        "Cor": "marrom",
+        "Cambio": "manual"
+    }
+]
